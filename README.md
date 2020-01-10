@@ -1,0 +1,1 @@
+### It's my note of how to setup google breakpad.
